@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "10.15.0",
+  "description": "simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akr21420/node.git"
+  },
+  "author": "Anantha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akr21420/node/issues"
+  },
+  "homepage": "https://github.com/akr21420/node#readme"
+}
